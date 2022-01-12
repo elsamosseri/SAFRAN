@@ -1,6 +1,37 @@
 # SAFRAN
 Ecosystem-based modelling of a marine protected area
 
+If you mention this model in a publication, we ask that you include the citation below:
+Mosseri, E. (2019). Ecosystem-based modelling of a marine protected area. https://github.com/elsamosseri/SAFRAN. 
+Centre international de recherche sur l’environnement et le développement (CIRED) - UMR 8568 (CNRS-ENPC-EHESS-Cirad-AgroParisTech).
+
+This code is associated with a forthcoming publication:
+Boemare, C., Mosseri, E., Agin, G., Bramanti, L., Certain, R., Claudet, J., Guizien, K., Jabouin, C., 
+Jarraya, M., Lagurgue, X., Lenfant, P., Levrel, H., Michel, C., Musard, O.
+Hybridizing research and decision-making: a path toward sustainability in marine spaces.
+Submitted January 2022 to Nature Sustainability.
+
+Code by Elsa Mosseri
+https://www.centre-cired.fr/elsa-mosseri/
+As part of the SAFRAN project - Scenarios for the development of the coastal fringe and the marine environment: 
+an integrated prospective of the social-ecological system of the Gulf of Lions’ Marine Natural Park.
+Project coordinated by Catherine Boemare
+https://www.centre-cired.fr/catherine-boemare/
+Project financed by the Fondation de France and the Agence des Aires Marines Protégées. 
+https://www.fondationdefrance.org/fr
+https://ofb.gouv.fr/
+
+The food-web modelling is freely adapted from the Ecopath models and scientific publications consulted for the project (modelling features and data).
+https://ecopath.org/
+Bănaru, D. et al. Trophic structure in the Gulf of Lions marine ecosystem (north-western Mediterranean Sea) and fishing impacts. 
+Journal of Marine Systems 111, 45-68 (2013).
+Corrales, X. et al. Ecosystem structure and fishing impacts in the northwestern Mediterranean Sea using a food web model within a comparative approach. 
+Journal of Marine Systems 148, 183-199 (2015).
+
+
+                      *******************
+
+
 Copyright or © or Copr. CNRS 2019. 
 Main Contributor (2019) : Elsa Mosseri / mosseri[at]centre-cired.fr
 
