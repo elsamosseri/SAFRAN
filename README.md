@@ -5,11 +5,11 @@ If you mention this model in a publication, we ask that you include the citation
 Mosseri, E. (2019). Ecosystem-based modelling of a marine protected area. https://github.com/elsamosseri/SAFRAN. 
 Centre international de recherche sur l’environnement et le développement (CIRED) - UMR 8568 (CNRS-ENPC-EHESS-Cirad-AgroParisTech).
 
-This code is associated with a forthcoming publication:
+This code is associated with the following publication:
 Boemare, C., Mosseri, E., Agin, G., Bramanti, L., Certain, R., Claudet, J., Guizien, K., Jabouin, C., 
-Jarraya, M., Lagurgue, X., Lenfant, P., Levrel, H., Michel, C., Musard, O.
-Hybridizing research and decision-making: a path toward sustainability in marine spaces.
-Submitted January 2022 to Nature Sustainability.
+Jarraya, M., Lagurgue, X., Lenfant, P., Levrel, H., Michel, C., Musard, O (2023).
+Hybridizing research and decision-making as a path toward sustainability in marine spaces. 
+npj Ocean Sustainability, 2(1), 5.
 
 Code by Elsa Mosseri
 https://www.centre-cired.fr/elsa-mosseri/
@@ -33,7 +33,7 @@ Journal of Marine Systems 148, 183-199 (2015).
 
 
 Copyright or © or Copr. CNRS 2019. 
-Main Contributor (2019) : Elsa Mosseri / mosseri[at]centre-cired.fr
+Main Contributor (2019) : Elsa Mosseri / elsamosseri[at]protonmail.com
 
 This software is a computer program whose purpose is to explore the 
 distribution of biomass between each group of marine ecosystems under 
